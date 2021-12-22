@@ -1,5 +1,4 @@
-The files are not well-organized and complete (e.g. gradle files) but source code are all included
-Updates will be done soon and completely
+The files are not well-organized and complete (e.g. gradle files) but source code are all included. Organization will be done soon and completely
 
 # Todots
 Todots gives you the comfort you deserve and serves as a smart assistant which can keep all your tasks organized, so you can focus on doing the tasks rather than planning what to do. As students we realized what issues we faced with deadlines, not knowing how to start working on projects. We understand that tasks aren’t binary, they need more than just add/delete. That’s why we invented the Todos Task Life Stages: 
